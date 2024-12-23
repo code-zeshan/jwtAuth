@@ -1,0 +1,5 @@
+{
+    "PORT": 5000,
+    "DB_URL":"mongodb+srv://zeshancode:zeshancode@zeshancode.1u1ir.mongodb.net/Auth",
+    "jwtSecret": "teriaisikitaisi"
+}
